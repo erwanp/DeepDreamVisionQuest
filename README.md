@@ -1,3 +1,11 @@
+Implemented with PyTorch instead of Caffe: 
+
+https://github.com/erwanp/DeepDreamWebcam
+
+
+----
+
+
 # DeepDream Vision Quest
 This script runs the Deep Dream neural visualization on camera input to produce live output. Motion detection is used as a high latency interaction channel. Keyboard input allows dynamic control of neural parameters as the network dreams. My investigation building an engaging experience with this system is the subject of my GDC 2016 Poster Session: [Find Your Spirit Animal In A Deep Dream Vision Quest](http://schedule.gdconf.com/session/find-your-spirit-animal-in-a-deep-dream-vision-quest)
 
